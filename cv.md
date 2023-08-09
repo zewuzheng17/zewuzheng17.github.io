@@ -1,5 +1,5 @@
 # Zewu Zheng's CV
 
-<embed src="/zzw_cv_cuhk.pdf" type="application/pdf">
+<embed src="/zzw_cv_cuhk.pdf">
 
 
