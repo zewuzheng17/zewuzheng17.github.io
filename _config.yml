@@ -18,6 +18,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "CV", file: "cv.md"}
+  - {title: "Cv", file: "zzw_cv_cuhk.pdf"}
   - {title: "HOMEPAGES", url: "https://zewuzheng17.github.io"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
