@@ -1,5 +1,5 @@
 # Zewu Zheng's CV
 
-![](zzw_cv_cuhk.pdf)
+<embed src="zzw_cv_cuhk.pdf" type="application/pdf">
 
 
